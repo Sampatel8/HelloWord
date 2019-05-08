@@ -1,2 +1,4 @@
 # HelloWorld
-Basic helloword program for starting github
+Basic "helloworld" program.
+
+For starting github repository
